@@ -5,3 +5,8 @@ langchain-community
 unstructured[md]
 pandas
 numpy
+networkx
+ragas
+tqdm
+matplotlib
+seaborn
