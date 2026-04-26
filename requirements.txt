@@ -1,0 +1,7 @@
+chromadb
+langchain-ollama
+langsmith
+langchain-community
+unstructured[md]
+pandas
+numpy
